@@ -1,0 +1,5 @@
+### Guide ###
+# Rules should be in the form: "if <antecedent> then <consequent>".
+# Put each rule on a separate line.
+# Empty lines or those starting with "#" are ignored.
+# For more information, refer to the report.

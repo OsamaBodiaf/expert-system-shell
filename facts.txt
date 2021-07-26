@@ -1,0 +1,8 @@
+### Guide ###
+# A fact should be provided in one of these forms:
+#   — "<statement>".
+#   — "<key>: <statement>".
+#   — "<key>: <statement>. <truth_value>".
+# Put each fact on a separate line.
+# Empty lines or those starting with "#" are ignored.
+# For more information, refer to the report.
